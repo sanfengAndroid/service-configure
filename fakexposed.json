@@ -1,9 +1,10 @@
 {
   "app_standard": {
-    "version": "1.0",
-    "versionCode": 1000,
-    "link": "https://github.com/sanfengAndroid/FakeXposed",
-    "noteCN": "第一个版本",
-    "noteEN": "First version"
+    "version": "1.1",
+    "versionCode": 1100,
+    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/download/v1.1/app-release-1.1.apk",
+    "noteCN": "- 修复低版本创建ContextImpl错误导致后面无法继续\n- 修复Android7以下libcutil.so查找属性时导致循环依赖递归调用问题\n- 修复Android7以下Java Hook System类问题\n- 修复maps规则不生效\n- 修复环境变量不生效问题\n- 修复重定向路径反向读取问题\n- 修复遗漏的syscall open调用号\n- 更改新的Runtime.exec匹配规则并生效\n- 添加Android 25支持
+    ",
+    "noteEN": "Fix the error of creating ContextImpl in low version, which caused the subsequent failure to continue .etc"
   }
 }
