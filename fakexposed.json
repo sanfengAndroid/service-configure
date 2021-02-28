@@ -6,7 +6,7 @@
     "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
     ",
     "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
-  }
+  },
   "app_standard_all": {
     "version": "1.3",
     "versionCode": 1300,
@@ -14,7 +14,7 @@
     "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
     ",
     "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
-  }
+  },
  "app_standard_x86": {
     "version": "1.3",
     "versionCode": 1300,
@@ -22,7 +22,7 @@
     "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
     ",
     "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
-  }
+  },
  "app_standard_arm": {
     "version": "1.3",
     "versionCode": 1300,
