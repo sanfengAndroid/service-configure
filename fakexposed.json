@@ -1,34 +1,34 @@
 {
   "app_standard": {
-    "version": "1.3",
-    "versionCode": 1300,
-    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/tag/v1.3",
-    "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
+    "version": "1.5",
+    "versionCode": 1500,
+    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/tag/v1.5",
+    "noteCN": "- 修改应用名称为数据滤镜，旧版本1.3以下已经废弃\n- 添加测试菜单，点击右上角打开\n- 修复Android7以下崩溃问题\n- 修复动态代理问题\n- 修复Android11读取apk路径问题\n- 模拟器下载x86版本，手机下载arm版本
     ",
-    "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
+    "noteEN": "- Modify the application name to Data Filter. The old version below 1.3 has been deprecated.\n- Add the test menu and click on the upper right corner to open\n- Fix the crash problem below Android7\n- Fix the dynamic proxy problem\n- Fix the Android11 read apk path Problem\n- Download the x86 version for the emulator and the arm version for the mobile phone"
   },
   "app_standard_all": {
-    "version": "1.3",
-    "versionCode": 1300,
-    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/tag/v1.3",
-    "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
+    "version": "1.5",
+    "versionCode": 1500,
+    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/tag/v1.5",
+    "noteCN": "- 修改应用名称为数据滤镜，旧版本1.3以下已经废弃\n- 添加测试菜单，点击右上角打开\n- 修复Android7以下崩溃问题\n- 修复动态代理问题\n- 修复Android11读取apk路径问题\n- 模拟器下载x86版本，手机下载arm版本
     ",
-    "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
+    "noteEN": "- Modify the application name to Data Filter. The old version below 1.3 has been deprecated.\n- Add the test menu and click on the upper right corner to open\n- Fix the crash problem below Android7\n- Fix the dynamic proxy problem\n- Fix the Android11 read apk path Problem\n- Download the x86 version for the emulator and the arm version for the mobile phone"
   },
  "app_standard_x86": {
-    "version": "1.3",
-    "versionCode": 1300,
-    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/tag/v1.3",
-    "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
+    "version": "1.5",
+    "versionCode": 1500,
+    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/download/v1.5/datafilter-release-1.5-x86.apk",
+    "noteCN": "- 修改应用名称为数据滤镜，旧版本1.3以下已经废弃\n- 添加测试菜单，点击右上角打开\n- 修复Android7以下崩溃问题\n- 修复动态代理问题\n- 修复Android11读取apk路径问题\n- 模拟器下载x86版本，手机下载arm版本
     ",
-    "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
+    "noteEN": "- Modify the application name to Data Filter. The old version below 1.3 has been deprecated.\n- Add the test menu and click on the upper right corner to open\n- Fix the crash problem below Android7\n- Fix the dynamic proxy problem\n- Fix the Android11 read apk path Problem\n- Download the x86 version for the emulator and the arm version for the mobile phone"
   },
  "app_standard_arm": {
-    "version": "1.3",
-    "versionCode": 1300,
-    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/tag/v1.3",
-    "noteCN": "- 修改数据读取模式，调整targetSdk为23，旧版本需要卸载后再安装\n- 更改部分Java Hook为Native Java Hook\n- 现在区分x86,arm,all三个版本,部分模拟器优先使用arm会导致崩溃则需要下载x86版本\n- 正常手机下载arm或all版本均可
+    "version": "1.5",
+    "versionCode": 1500,
+    "link": "https://github.com/sanfengAndroid/FakeXposed/releases/download/v1.5/datafilter-release-1.5-arm.apk",
+  "noteCN": "- 修改应用名称为数据滤镜，旧版本1.3以下已经废弃\n- 添加测试菜单，点击右上角打开\n- 修复Android7以下崩溃问题\n- 修复动态代理问题\n- 修复Android11读取apk路径问题\n- 模拟器下载x86版本，手机下载arm版本
     ",
-    "noteEN": "Modify the data reading mode and adjust targetSdk to 23. The old version needs to be uninstalled and then installed.\n- Change some Java Hooks to Native Java Hook\n- Now distinguish between x86, arm, all three versions, some emulators prefer to use arm If it causes a crash, you need to download the x86 version\n- normal mobile phones can download the arm or all version"
+    "noteEN": "- Modify the application name to Data Filter. The old version below 1.3 has been deprecated.\n- Add the test menu and click on the upper right corner to open\n- Fix the crash problem below Android7\n- Fix the dynamic proxy problem\n- Fix the Android11 read apk path Problem\n- Download the x86 version for the emulator and the arm version for the mobile phone"
   }
 }
